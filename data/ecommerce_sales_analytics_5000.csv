@@ -3997,6 +3997,9 @@ order_id,order_date,customer_id,product_category,region,quantity,unit_price,disc
 13996,12/9/2032,1576,Electronics,South,1,565.89,0.29,COD,4,3.1,401.78
 13997,12/10/2032,1841,Clothing,South,2,131.8,0.02,COD,7,4,258.33
 13998,12/11/2032,1852,Home,West,7,38.81,0.24,COD,7,2.1,206.47
+
+
+
 13999,12/12/2032,1516,Clothing,West,3,300.6,0.15,COD,1,1.2,766.53
 14000,12/13/2032,1513,Clothing,North,1,278.61,0.26,COD,11,3,206.17
 14001,12/14/2032,1021,Clothing,East,3,208.92,0.32,Card,6,4.3,426.2
